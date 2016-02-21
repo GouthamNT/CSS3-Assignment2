@@ -1,0 +1,12 @@
+body {
+    background: darkgreen;
+}
+
+div {
+    margin: 25px;
+    background: lightgreen;
+    color: mediumvioletred;
+    padding: 25px;
+}
+
+
